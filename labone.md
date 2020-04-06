@@ -4,9 +4,9 @@
 
 *04/01/2020*
 
--How to code in R
+- How to code in R
 
--Better teamwork skills
+- Better teamwork skills
 
--How to use GitHub
+- How to use GitHub
 
